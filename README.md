@@ -1,3 +1,13 @@
+## Daftar Isi
+1. [Pengantar](#pengantar)
+2. [Fitur Utama](#fitur-utama)
+3. [Cara Menggunakan](#cara-menggunakan)
+4. [Kontribusi](#kontribusi)
+5. [Lisensi](#lisensi)
+
+
+
+
 ## Fitur Bot
 - Fitur 1: proxy checker
 - Fitur 2: github username lookup
@@ -13,4 +23,3 @@
 
 
 
-![Build Status](https://img.shields.io/travis/INDO-SEC/BotTele)
