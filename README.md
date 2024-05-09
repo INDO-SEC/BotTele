@@ -1,5 +1,8 @@
-(https://tenor.com/OdYQQveosp.gif)
 
+
+
+
+![GIF Animasi](https://example.com/animasi.gif)
 
 ## Fitur Bot
 - Fitur 1: proxy checker
