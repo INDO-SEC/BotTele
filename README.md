@@ -1,11 +1,6 @@
-## Daftar Isi
-1. [Pengantar](#pengantar)
-2. [Fitur Utama](#fitur-utama)
-3. [Cara Menggunakan](#cara-menggunakan)
-4. [Kontribusi](#kontribusi)
-5. [Lisensi](#lisensi)
 
 
+![GIF Animasi](https://tenor.com/OdYQQveosp.gif)
 
 
 ## Fitur Bot
