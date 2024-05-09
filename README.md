@@ -17,9 +17,7 @@
 
 ## INSTALL TOOLS
 
-1. Clone : `https://github.com/INDO-SEC/BotTele`
-3. Instal bahan: `npm install`
-4. Jalankan script: `npm start`
+> 1. Clone : `https://github.com/INDO-SEC/BotTele`
 
-
-> anjay
+> 3. Instal bahan: `npm install`
+> 4. Jalankan script: `npm start`
