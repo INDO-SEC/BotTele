@@ -2,8 +2,6 @@
 
 
 
-![GIF Animasi](https://example.com/animasi.gif)
-
 ## Fitur Bot
 - Fitur 1: proxy checker
 - Fitur 2: github username lookup
