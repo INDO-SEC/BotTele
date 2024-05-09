@@ -22,4 +22,4 @@
 4. Jalankan script: `npm start`
 
 
-<  anjay
+> anjay
