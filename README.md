@@ -2,7 +2,7 @@
 
 
 
-## FITUR BOT
+> ## FITUR BOT
 
 > - Fitur 1: proxy checker
 > - Fitur 2: github username lookup
@@ -15,7 +15,7 @@
 > - Fitur 9: whois
 
 
-## INSTALL TOOLS
+> ## INSTALL TOOLS
 
 > 1. Clone : `https://github.com/INDO-SEC/BotTele`
 
