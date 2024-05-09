@@ -13,6 +13,4 @@
 
 
 
-![Build Status](https://img.shields.io/travis/username/repo-name)
-![Lisensi](https://img.shields.io/github/license/username/repo-name)
-![Stars](https://img.shields.io/github/stars/username/repo-name?style=social)
+![Build Status](https://img.shields.io/travis/INDO-SEC/repo-name)
