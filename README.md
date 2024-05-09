@@ -12,7 +12,7 @@
 - Fitur 6: cuaca/weather only +62
 - Fitur 7: info gempa
 - Fitur 8: ping -t
-| Fitur 9: whois
+- Fitur 9: whois
 
 
 ## INSTALL TOOLS
@@ -22,4 +22,4 @@
 4. Jalankan script: `npm start`
 
 
-
+• anjay
