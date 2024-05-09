@@ -1,6 +1,4 @@
-
-
-![GIF Animasi](https://tenor.com/OdYQQveosp.gif)
+(https://tenor.com/OdYQQveosp.gif)
 
 
 ## Fitur Bot
