@@ -13,4 +13,4 @@
 
 
 
-![Build Status](https://img.shields.io/travis/INDO-SEC/repo-name)
+![Build Status](https://img.shields.io/travis/INDO-SEC/BotTele)
